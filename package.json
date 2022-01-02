@@ -1,0 +1,12 @@
+{
+  "name": "@talentlessio/prettier",
+  "version": "1.0.0",
+  "description": "Talentless Prettier config",
+  "main": "index.json",
+  "repository": "https://github.com/talentlessio/prettier.git",
+  "author": "Miso Zmiric <mzmiric5@users.noreply.github.com>",
+  "private": true,
+  "peerDependencies": {
+    "prettier": "^2.5.1"
+  }
+}
